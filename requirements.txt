@@ -1,0 +1,13 @@
+transformers @ git+https://github.com/huggingface/transformers.git@cc3e4781854a52cf090ffde28d884a527dab6708
+accelerate==0.24.1
+bitsandbytes==0.41.1
+datasets==2.14.6
+peft @ git+https://github.com/huggingface/peft.git@cfe35a7878b44e017836f0b0c0c3b3e9e0cb738b
+rouge-score==0.1.2
+sentencepiece==0.1.99
+numpy==1.23.5
+pandas==1.5.3
+torch @ https://download.pytorch.org/whl/cu118/torch-2.1.0%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=a81b554184492005543ddc32e96469f9369d778dedd195d73bda9bed407d6589
+loralib==0.1.2
+matplotlib==3.7.1
+matplotlib-inline==0.1.6

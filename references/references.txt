@@ -1,0 +1,6 @@
+1. https://huggingface.co/docs/peft/task_guides/clm-prompt-tuning
+2. https://towardsdatascience.com/leveraging-qlora-for-fine-tuning-of-task-fine-tuned-models-without-catastrophic-forgetting-d9bcd594cff4#:~:text=Approaches%20Low%2DRank%20Adaptation%20(LoRA,trainable%20parameters%20for%20downstream%20tasks.
+3. https://huggingface.co/docs/datasets/v1.16.1/index.html
+4. https://huggingface.co/docs/optimum/concept_guides/quantization
+5. https://huggingface.co/blog/peft
+6. https://huggingface.co/docs/peft/conceptual_guides/lora
